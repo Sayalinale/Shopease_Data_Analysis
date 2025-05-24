@@ -1,4 +1,4 @@
-📊 ShopEase Sales Analysis
+**** 📊 ShopEase Sales Analysis**
 
 **ShopEase\_cleaned.csv**
   Cleaned version of the original dataset used for analysis. Missing values were handled, formats standardized, and data saved for reuse.
@@ -14,8 +14,6 @@
   Libraries used include:
   `pandas`, `numpy`, `matplotlib`, `seaborn`
 
--
-
 ## 🧠 Key Insights
 
 * **Best-Selling Category:** Electronics (\$7,500 in revenue)
@@ -23,7 +21,6 @@
 * **Customer Trends:** Preference for credit cards; strong performance from the Western region
 * **Sales Drivers:** Strong correlation between advertising spend and total sales
 
----
 
 ## ✅ Tools & Technologies
 
