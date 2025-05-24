@@ -1,5 +1,4 @@
-** 📊 ShopEase Sales Analysis**
-
+📊 ShopEase Sales Analysis
 **ShopEase\_cleaned.csv**
   Cleaned version of the original dataset used for analysis. Missing values were handled, formats standardized, and data saved for reuse.
 
